@@ -1,4 +1,3 @@
-
 // This script needs to support redirects from urls like weebly's
 
 (function() {
@@ -35,7 +34,7 @@
     iframe.style.width = width;
     iframe.style.height = height;
     iframe.style.border = 'none';
-    iframe.src = 'https://squareup.com/appointments/buyer/widget/m430uip2eut5qy/LEKCS9W15P4Z1/services?buttonTextColor=000000&color=fda9a9';
+    iframe.src = 'https://squareup.com/appointments/buyer/widget/m430uip2eut5qy/LEKCS9W15P4Z1';
 
     scriptTag.parentNode.insertBefore(iframe, scriptTag);
   }
