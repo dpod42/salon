@@ -27,8 +27,7 @@
 
     var iframe = document.createElement('iframe');
 
-      var width = "100%";
-      var height = "100%";
+      var width = "100%";     
       iframe.style.minHeight = "500px";
 
     iframe.style.width = width;
