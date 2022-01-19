@@ -32,7 +32,7 @@
       iframe.style.minHeight = "500px";
 
     iframe.style.width = width;
-    iframe.style.height = height;
+    iframe.style.height = "1500px";
     iframe.style.border = 'none';
     iframe.src = 'https://squareup.com/appointments/buyer/widget/m430uip2eut5qy/LEKCS9W15P4Z1';
 
