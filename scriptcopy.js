@@ -29,7 +29,7 @@
 
       var width = "100%";
       var height = "100%";
-      iframe.style.minHeight = "1000px";
+      iframe.style.minHeight = "500px";
 
     iframe.style.width = width;
     iframe.style.height = height;
