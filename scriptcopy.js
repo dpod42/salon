@@ -35,6 +35,7 @@
     iframe.style.height = height;
     iframe.style.border = 'none';
     iframe.src = 'https://squareup.com/appointments/buyer/widget/m430uip2eut5qy/LEKCS9W15P4Z1';
+    iframe.scrolling = 'no';
 
     scriptTag.parentNode.insertBefore(iframe, scriptTag);
   }
