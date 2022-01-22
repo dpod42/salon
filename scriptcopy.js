@@ -27,11 +27,12 @@
 
     var iframe = document.createElement('iframe');
 
-      var width = "100%";     
-      iframe.style.minHeight = "500px";
+      var width = "100%";
+      var height = "100%";
+      iframe.style.minHeight = "1000px";
 
     iframe.style.width = width;
-    iframe.style.height = "1500px";
+    iframe.style.height = height;
     iframe.style.border = 'none';
     iframe.src = 'https://squareup.com/appointments/buyer/widget/m430uip2eut5qy/LEKCS9W15P4Z1';
 
